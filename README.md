@@ -22,4 +22,4 @@ What things you need to install and set up the project:
 #### Clone the Repository
 
 ```bash
-gh repo clone YanNazzim/Android-LittleLemon-Final-Project
+gh repo clone YanNazzim/Android-Final-Project---Little-Lemon-dinner-menu
